@@ -1,0 +1,7 @@
+echo "# juliana116" >> README.md
+git init
+git add README.md
+git commit -m "mensaje a valentina"
+git branch -M main
+git remote add origin https://github.com/juliana116/juliana116.git
+git push -u origin main
